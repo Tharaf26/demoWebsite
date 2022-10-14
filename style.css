@@ -1,0 +1,10 @@
+.hero-parent {
+flex-direction: column;
+display: flex;
+}
+
+.hero-item {
+    background-color: white;
+
+} 
+
